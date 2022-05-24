@@ -1,3 +1,3 @@
 # test
 
-SELECT
+SELECT * FROM [dbo].[masterfile]
